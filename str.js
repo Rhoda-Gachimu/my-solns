@@ -1,3 +1,17 @@
 let messageToUser = "We have logged"
 
-console.log(messageToUser)
+
+let firstName = "Rhoda"
+let lastName = "Gachimu"
+
+let fullName = firstName +  " "  + lastName
+
+console.log(fullName)
+
+let name = "Jake"
+let greeting = "Hi there"
+
+function sayHello(){
+    console.log(greeting + ", " + name + "!")
+}
+sayHello()
