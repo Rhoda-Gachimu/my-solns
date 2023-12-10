@@ -12,6 +12,6 @@ let name = "Jake"
 let greeting = "Hi there"
 
 function sayHello(){
-    console.log(greeting + ", " + name + "!")
+    console.log(greeting + " " + name + "!")
 }
 sayHello()
