@@ -45,3 +45,7 @@ print(greeting[1])
 # index function
 
 print(greeting.index("e"))
+
+# replace
+
+print(greeting.replace("Hello","ola!"))
