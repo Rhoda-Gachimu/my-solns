@@ -8,3 +8,9 @@ def max_num(num1, num2, num3):
        
 
 print(max_num(1,2,4))
+
+# conparison operators
+# == equal to
+# >= greater than or equal to
+# <= less than or equal to
+# !=  not equal to
